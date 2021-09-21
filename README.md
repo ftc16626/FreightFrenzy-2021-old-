@@ -1,6 +1,6 @@
-# UltimateGoal-2020
+# FreightFrenzy-2021
 
-FTC Team 16626’s code for the Ultimate Goal Challenge (2020-2021)
+FTC Team 16626’s code for the Freight Frenzy Challenge (2021-2022)
 
 ## Getting started
 
