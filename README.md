@@ -27,3 +27,4 @@ Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before making
 
 - Devin Hall - [_@Devin34_](https://github.com/Devin34)
 - Ari Delamata - [_@Nitr0gue_](https://github.com/Nitr0gue)
+- Dylan Nearbin - [_@DylanNearbin_](https://github.com/DylanNearbin)
