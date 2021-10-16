@@ -24,7 +24,3 @@ Further additions to the main FTC Robot activity will be located in [FtcRobotCon
 Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before making a pull request. If you have any questions regarding the code base, feel free to message any of the contributors!
 
 ### Contributors
-
-- Devin Hall - [_@Devin34_](https://github.com/Devin34)
-- Ari Delamata - [_@Nitr0gue_](https://github.com/Nitr0gue)
-- Dylan Nearbin - [_@DylanNearbin_](https://github.com/DylanNearbin)
